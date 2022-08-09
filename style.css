@@ -1,0 +1,40 @@
+header {
+
+height: 200px;
+
+background-color: black;
+
+}
+
+main {
+
+height: 200px;
+
+background: green;
+
+}
+
+aside {
+
+height: 200px;    
+
+background-color: red;
+
+}
+
+aside section {
+
+height: 50px;
+
+background-color: black;
+
+
+}
+
+footer {
+
+height: 180px;    
+
+background-color: blue;
+
+}
