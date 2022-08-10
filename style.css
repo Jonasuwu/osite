@@ -2,23 +2,30 @@ header {
 
 height: 200px;
 
-background-color: black;
+background-color: gray;
 
-}
+}   
 
 main {
 
-height: 200px;
+height: 250px;
 
-background: green;
+background: gray;
+
+}
+
+h2 {
+
+color: white;
+
 
 }
 
 aside {
 
-height: 200px;    
+height: 400px;    
 
-background-color: red;
+background-color: gray;
 
 }
 
@@ -31,10 +38,67 @@ background-color: black;
 
 }
 
+li {
+
+color: white
+
+
+}
+
+#sec2 {
+
+height: 350px;
+
+margin-top: 45px;
+
+background-color: gray;
+
+margin-left: 0px;
+
+}
+
+#sec1 {
+
+height: 350px;
+
+margin-top: 45px;
+
+background-color: gray;
+
+}
+
 footer {
 
 height: 180px;    
 
 background-color: blue;
+
+}
+
+#pl {
+
+    color: white;
+
+background-color: gray;
+
+
+}
+
+h3 {
+
+color: white;
+
+text-align: center;
+
+width: 335px;
+
+background-color: black;
+
+}
+
+img {
+
+height: 180px;
+
 
 }
