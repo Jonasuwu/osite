@@ -14,7 +14,23 @@ background: gray;
 
 }
 
+#but {
+
+border-radius: 5px;
+
+border: 0px;
+
+height: 40px;
+
+width: 65px;
+
+
+
+}
+
 h2 {
+
+    background-color: #686868;
 
 color: white;
 
@@ -23,17 +39,19 @@ color: white;
 
 aside {
 
-height: 400px;    
+height: 621px;    
 
 background-color: gray;
 
 }
 
-aside section {
+aside section {    
+
+color: white;    
 
 height: 50px;
 
-background-color: black;
+background-color: gray;
 
 
 }
@@ -71,8 +89,6 @@ footer {
 
 height: 180px;    
 
-background-color: blue;
-
 }
 
 #pl {
@@ -100,5 +116,54 @@ img {
 
 height: 180px;
 
+
+}
+
+    footer {
+
+background-color: white;
+
+
+    }
+
+#l1 {
+    font-size: 25px;
+
+color: blue;
+
+
+}
+
+#l2 {
+
+    font-size: 25px;
+
+color: blue;
+
+
+}
+
+#l3 {
+
+    font-size: 25px;
+
+color: blue;
+
+
+}
+
+#l4 {
+
+font-size: 25px;
+
+color: blue;
+
+}
+
+
+#l5 {
+    font-size: 25px;
+
+color: blue;
 
 }
